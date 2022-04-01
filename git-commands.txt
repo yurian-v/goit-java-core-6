@@ -1,1 +1,5 @@
 git init - new repository incurrent folder
+git status - view the repo
+git add <file name> - add file to staging area
+git commit -m "<commit message>" - make commit
+git log - history
