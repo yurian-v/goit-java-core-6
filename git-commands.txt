@@ -3,9 +3,9 @@ git status - view the repo
 git add <file name> - add file to staging area
 git commit -m "<commit message>" - make commit
 git log - history
-git checkout <commit hash> - switch git repo to spec commit
+git checkout <commit hash> - switch git repository to spec commit
 git checkout (branch) - switch git to the last commit of cpec branch 
-git remote add origin <repo path> - add <repo path> to remote origin server
+git remote add origin <repository path> - add <repository path> to remote origin server
 git pull origin <master> - fetch fresh code
 git push origin <branch> - push branch <branch> to remote repository <origin>
 
